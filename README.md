@@ -50,7 +50,7 @@ filestorm/userconfig.json文件里面的VnodeServiceCfg内容是    120.78.2.59:
 filestorm/run_filestorm_scs.sh文件里面的 vnode-address http://120.78.2.59:8547
 
 
-<b>2、我自己也搭建了一个 VNODE节点，供大家测试，配置如下</b>
+<b>2、我自己也搭建了一个 VNODE节点，以防官方的 VNODE 挂掉，供大家测试，配置如下</b>
 
 第一步：
 
