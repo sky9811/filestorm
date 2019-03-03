@@ -5,10 +5,8 @@ Filestorm 官方    https://github.com/tudousi/FileStorm/releases
 
 根据官方的源码，写的一键脚本
 
-2019年2月28日更新一键脚本，适合 CENTOS 7.4 完整版系统安装
+<b>2019年2月28日更新一键脚本，适合 CENTOS 7.4 完整版系统安装</b>
  
-
-即可重启
  
 第一步，安装 Centos7.6 X64位 完整版 教程如下
 
