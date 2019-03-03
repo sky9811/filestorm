@@ -15,7 +15,6 @@ Filestorm 官方    https://github.com/tudousi/FileStorm/releases
 第二步，执行一键安装脚本，用 SSH 工具连接 LINUX，执行如下命令
 
 <code> yum -y install wget
-
 wget -N --no-check-certificate https://tudousi.org/download/document/install.sh && chmod +x install.sh && bash install.sh</code>
 
 我在 filestorm 目录下面，直接放了一个 restart.sh 脚本，大家直接执行命令
